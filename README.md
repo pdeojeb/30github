@@ -1,1 +1,1 @@
-# 30github
+# it's my first repository
